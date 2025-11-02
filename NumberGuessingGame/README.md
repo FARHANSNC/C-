@@ -30,3 +30,5 @@ A console-based number guessing game built in C# as my first mini-project during
 - Random Number Generation
 - User Input Validation
 - Game State Management
+
+## Leave a star if you like this game 
